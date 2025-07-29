@@ -1,0 +1,4 @@
+while,(,e,),{,},;,s
+S,L
+S
+S->while ( e ) S,S->{ L },S->s,L->L ; S,L->S
